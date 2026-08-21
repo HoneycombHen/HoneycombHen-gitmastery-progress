@@ -9,10 +9,28 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "link-me",
+    "started_at": 1787240782.798395,
+    "completed_at": 1787240785.289101,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1787228544.28278,
     "completed_at": 1787228546.374252,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787238794.860563,
+    "completed_at": 1787238881.713678,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
     "status": "Completed"
   },
   {
@@ -34,20 +52,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1787238794.860563,
-    "completed_at": 1787238881.713678,
+    "exercise_name": "push-over",
+    "started_at": 1787301819.740292,
+    "completed_at": 1787301822.224786,
     "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1787240782.798395,
-    "completed_at": 1787240785.289101,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
+      "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
   }
